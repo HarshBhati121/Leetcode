@@ -1,1 +1,1 @@
-<h2>regular-expression-matching Notes</h2><hr>[ Time taken: 15hrs 5m 39s ]
+<h2>regular-expression-matching Notes</h2><hr>[ Time taken: 17hrs 13m 20s ]
